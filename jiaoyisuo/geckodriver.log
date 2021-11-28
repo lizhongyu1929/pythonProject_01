@@ -1,0 +1,93 @@
+1636384580089	geckodriver	INFO	Listening on 127.0.0.1:4794
+1636384583132	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilelFikSr"
+1636384583694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilelFikSr\\search.json.mozlz4", (void 0)))
+1636384586628	Marionette	INFO	Listening on port 4804
+1636384586990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636384588622	Marionette	INFO	Stopped listening on port 4804
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636384624365	geckodriver	INFO	Listening on 127.0.0.1:4887
+1636384627426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofileOK1mfb"
+1636384627901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofileOK1mfb\\search.json.mozlz4", (void 0)))
+1636384631079	Marionette	INFO	Listening on port 4898
+1636384631295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://utr.gemas.com.cn/utr-web/js/keditor/plugins/code/prettify.css, line 1: SyntaxError: expected expression, got '.'
+JavaScript warning: http://utr.gemas.com.cn/utr-web/js/map/baiduMap.js, line 1: unreachable code after return statement
+1636384634652	Marionette	INFO	Stopped listening on port 4898
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636384771818	geckodriver	INFO	Listening on 127.0.0.1:5095
+1636384774886	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilem4zUPC"
+1636384775384	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilem4zUPC\\search.json.mozlz4", (void 0)))
+1636384778191	Marionette	INFO	Listening on port 5105
+1636384778299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://utr.gemas.com.cn/utr-web/js/keditor/plugins/code/prettify.css, line 1: SyntaxError: expected expression, got '.'
+JavaScript warning: http://utr.gemas.com.cn/utr-web/js/map/baiduMap.js, line 1: unreachable code after return statement
+1636384781635	Marionette	INFO	Stopped listening on port 5105
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636384808199	geckodriver	INFO	Listening on 127.0.0.1:5189
+1636384811247	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofileE6RsAq"
+1636384811702	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofileE6RsAq\\search.json.mozlz4", (void 0)))
+1636384814688	Marionette	INFO	Listening on port 5199
+1636384815134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://utr.gemas.com.cn/utr-web/js/keditor/plugins/code/prettify.css, line 1: SyntaxError: expected expression, got '.'
+JavaScript warning: http://utr.gemas.com.cn/utr-web/js/map/baiduMap.js, line 1: unreachable code after return statement
+1636384818639	Marionette	INFO	Stopped listening on port 5199
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1636384841686	geckodriver	INFO	Listening on 127.0.0.1:5286
+1636384844753	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilehd1xaQ"
+1636384845264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilehd1xaQ\\search.json.mozlz4", (void 0)))
+1636384847902	Marionette	INFO	Listening on port 5300
+1636384848045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://utr.gemas.com.cn/utr-web/js/keditor/plugins/code/prettify.css, line 1: SyntaxError: expected expression, got '.'
+JavaScript warning: http://utr.gemas.com.cn/utr-web/js/map/baiduMap.js, line 1: unreachable code after return statement
+1636384851786	Marionette	INFO	Stopped listening on port 5300
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 26604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636384871513	geckodriver	INFO	Listening on 127.0.0.1:5374
+1636384874568	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilebjSvcv"
+1636384875022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilebjSvcv\\search.json.mozlz4", (void 0)))
+1636384877749	Marionette	INFO	Listening on port 5386
+1636384877839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://utr.gemas.com.cn/utr-web/js/keditor/plugins/code/prettify.css, line 1: SyntaxError: expected expression, got '.'
+JavaScript warning: http://utr.gemas.com.cn/utr-web/js/map/baiduMap.js, line 1: unreachable code after return statement
+1636385098457	Marionette	INFO	Stopped listening on port 5386
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636385224130	geckodriver	INFO	Listening on 127.0.0.1:5791
+1636385227204	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilejsdaIT"
+1636385227686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TF\\AppData\\Local\\Temp\\rust_mozprofilejsdaIT\\search.json.mozlz4", (void 0)))
+1636385230369	Marionette	INFO	Listening on port 5803
+1636385230481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://utr.gemas.com.cn/utr-web/js/keditor/plugins/code/prettify.css, line 1: SyntaxError: expected expression, got '.'
+JavaScript warning: http://utr.gemas.com.cn/utr-web/js/map/baiduMap.js, line 1: unreachable code after return statement
+1636385233937	Marionette	INFO	Stopped listening on port 5803
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3328, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 3328, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
